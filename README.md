@@ -4,7 +4,6 @@
 <p align="center">  - 💞️ I’m looking to collaborate on new projects </p>
 <p align="center">  - 📫 How to reach me: discord fuhrer#6277 </p>
 
-
 <h3 align="center">Languages</h1>
 <p align="center">
   <img src="https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC">
