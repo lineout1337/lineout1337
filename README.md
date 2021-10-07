@@ -1,6 +1,6 @@
 <p align="center"> - 👋 Hi, I’m @lineout1337 </p>
 <p align="center"> - 👀 I’m interested in programming </p>
-<p align="center">  - 🌱 I’m currently learning js, html, asm </p>
+<p align="center">  - 🌱 I’m currently learning js, html </p>
 <p align="center">  - 💞️ I’m looking to collaborate on new projects </p>
 <p align="center">  - 📫 How to reach me: discord fuhrer#6277 </p>
 
