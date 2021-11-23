@@ -1,5 +1,5 @@
-<p align="center"> - 👋 Hi, I’m @lineout1337 </p>
-<p align="center">  - 📫 How to reach me: discord fuhrer#6277 </p>
+<p align="center"> 👋 Hi, I’m @lineout1337 </p>
+<p align="center">  📫 How to reach me: discord fuhrer#6277 </p>
 
 <h3 align="center">Languages</h1>
 <p align="center">
