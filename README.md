@@ -1,6 +1,5 @@
 <p align="center"> 👋 Hi, I’m @lineout1337 </p>
-<p align="center">  📫 How to reach me: discord fuhrer1#6567 | 
-tg https://t.me/so4nik000</p>
+<p align="center">  📫 How to reach me: https://t.me/apeforever</p>
 
 <h3 align="center">Languages</h1>
 <p align="center">
